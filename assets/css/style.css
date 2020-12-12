@@ -148,6 +148,28 @@ section{
     background-size: cover;
 }
 
+/* Contact Me section: */
+.contact-details{
+    display: flex;
+    justify-content: space-around;
+    flex-wrap: wrap;
+}
+.contact-details span{
+    display:flex;
+}
+.material-icons{
+    margin-right: 0.5em;
+}
+
+/* Footer: */
+footer{
+    display: flex;
+    background-color: #333;
+    justify-content: center;
+    color: #a8c9d8;
+}
+
+
 /* Less than 1000px screen size: */
 @media all and (max-width: 1000px) { 
     

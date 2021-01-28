@@ -148,6 +148,13 @@ section{
     background-size: cover;
 }
 
+.item-3{
+
+    width: 100%;
+    background-image: url(../images/savetv.png);
+    background-size: cover;
+}
+
 /* Contact Me section: */
 .contact-details{
     display: flex;

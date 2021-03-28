@@ -155,6 +155,13 @@ section{
     background-size: cover;
 }
 
+.item-4{
+
+    width: 100%;
+    background-image: url(../images/milestone.png);
+    background-size: cover;
+}
+
 /* Contact Me section: */
 .contact-details{
     display: flex;
